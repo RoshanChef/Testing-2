@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-srivastava-458b0117)](https://www.linkedin.com/in/suyash-srivastava-458b01173) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:roshan.kalmatheroshan@gmail.com)](mailto:roshan.kalmatheroshan@gmail.com)
 
-I am <B>Roshan Kalmathe</B>.I love to do web development and open to learning new technologies.
+I am <B style="color:wheat">Roshan Kalmathe</B>.I love to do web development and open to learning new technologies.
 
 ## 💻 Projects
 
